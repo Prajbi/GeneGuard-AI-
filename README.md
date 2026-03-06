@@ -23,5 +23,26 @@ Random Forest Classifier
 - Confusion matrix
 - Feature importance
 
+
+  # GeneGuard AI
+
+GeneGuard AI is a machine learning-based healthcare system that predicts diabetes risk using patient health parameters.
+
+## Features
+- AI-powered diabetes prediction
+- Interactive web application
+- Data visualization
+- Feature importance analysis
+
+## Technologies Used
+- Python
+- Streamlit
+- Scikit-learn
+- Pandas
+- NumPy
+
+## Dataset
+PIMA Indians Diabetes Dataset
+
 ## Author
 Prajwal Biradar
